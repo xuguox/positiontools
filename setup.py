@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="python-positiontools",
-    version="1.0.0",
+    version="1.0.1",
     author="neason",
     author_email="xgx93610@gmail.com",
     description="python position tools",
